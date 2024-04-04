@@ -1,0 +1,4 @@
+org.springframework.context.ApplicationListener=\
+com.will.observer.listener.DemoSpringApplicationListener,\
+com.will.observer.listener.DemoSpringApplicationStartingListener,\
+com.will.observer.listener.DemoCustomerEventListener
